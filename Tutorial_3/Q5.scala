@@ -1,5 +1,5 @@
 object Q5 {
-	
+
 	def main(args: Array[String]) : Unit  = {
 		println(calcTime(2,8,3,7))	
 	}
