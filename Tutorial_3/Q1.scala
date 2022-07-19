@@ -1,4 +1,3 @@
-package scala.math
 
 object Q1 {
   
@@ -7,7 +6,7 @@ object Q1 {
   }
   
   def Area_of_disk(r:Double):Double = {
-  	Pi*r*r
+  	scala.math.Pi*r*r
   	}
   
 }
