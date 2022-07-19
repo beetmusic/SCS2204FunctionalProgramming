@@ -1,5 +1,3 @@
-package scala.math
-
 
 object Q3 {
 	
@@ -8,7 +6,7 @@ object Q3 {
 	}
 	
 	def volume(r : Double) : Double = {
-		4/3*Pi*r*r*r
+		4/3*scala.math.Pi*r*r*r
 	}
 	
 }
