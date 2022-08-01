@@ -9,7 +9,7 @@ object Q1 {
     println(interest(amount))
   
   }
-  
+   
   def interest(amount:Double):Double = {
   
   	if(amount<20000){
