@@ -9,7 +9,7 @@ object Q2 {
   	fun(number)
   
   }
-  
+   
   def fun(number : Double ){
 	  if(number<=0){
 	  	println("Negative/zero")
